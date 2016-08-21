@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.09183671
+color:
+  saturation: 0.744183
+  lightness: 0.9904464
+  brandStrength: 0.226101
+  brandColors:
+    - '#8EB5F0'
+    - '#FFFFFF'
+    - '#B65C42'
+    - '#010101'
+    - '#55312E'
+  rhythmicContrast: 0.120071
+name: 'Spankygemini '
